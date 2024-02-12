@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(251, 255, 0);
+}
+h2{
+    color: rgb(43, 35, 160);
+    transition: 1s;
+    align-items: center;
+    padding: 0em 0em 0em 1.5em;
+    
+}
+
+.tittle{
+    font-size: 50px;
+   
+}
+#principal{
+    border-radius: 15%;
+    font-size: 40px;
+    color: blue
+    ;
+}
+.logo{
+    background-color: rgb(238, 255, 0);
+    width: 10em;
+    border: 2px solid black;
+    }
+#fase1{
+    width: 60vw;
+    margin: auto;
+    padding: 1em 1em 1em 1em;
+    font-size: 5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#logo2{
+    width: 83vw;
+    margin:auto;
+    margin-top: 1,5em;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 1em 2em 1em 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#muestra{
+    border: 2px solid black;
+    width: fit-content;
+    font-size: 3em;
+}
+#muestra :hover{
+    background-color: antiquewhite;
+}
+
+
+#boton{
+    font-size: 50px;
+
+}
+#link{
+    font-size: 5em;
+}
+#subtitulo{
+    font-size: 0.5em;
+}
